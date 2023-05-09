@@ -54,7 +54,7 @@ Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of
 ## Results
 
 From the analysis in the notebook, we can see that the clustering does not match the categories very well. 
-Nevertheless, the ARI index peaks at 0.286, which is not too bad considering that the clustering is unsupervised. 
+Nevertheless, the ARI index peaks at 0.267, which is not too bad considering that the clustering is unsupervised. 
 Considering this, as well as the shape of the WCSS curve, I propose that the **optimal number of clusters is 9**.
 
 
